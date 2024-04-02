@@ -37,7 +37,7 @@
 <p>
 "The following acts are divided according to one's role and they must follow it"
 </p>
- * [**aosp-act**](aosp-act.md)
+ * [**aosp-act**](https://github.com/Franxx-ORG/org-rules/blob/main/aosp-act.md)
  * [**donation-act**]()
  * [**maintainer-act**]()
  * [**member~user-act**]()
