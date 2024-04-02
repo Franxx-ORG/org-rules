@@ -37,7 +37,7 @@
 <p>
 "The following acts are divided according to one's role and they must follow it"
 </p>
- * [**aosp-act**]()
+ * [**aosp-act**](aosp-act.md)
  * [**donation-act**]()
  * [**maintainer-act**]()
  * [**member~user-act**]()

@@ -21,3 +21,9 @@
 <p>
 "Franxx-OS source can be modified and can be used by anyone except for primary monetary purposes"
 </p>
+
+### Act 2.4
+
+<p>
+"Any maintainer can modify the source for their device"
+</p>
